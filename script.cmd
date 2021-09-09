@@ -1,5 +1,7 @@
 @echo off
 
+title MongoDB Windows Backup Script
+
 set /p MONGO_HOST=Enter the host / ip address of the mongo server: 
 echo.
 set /p MONGO_PORT=Enter the port for the mongo server: 
