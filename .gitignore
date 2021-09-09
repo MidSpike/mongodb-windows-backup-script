@@ -1,0 +1,24 @@
+# environment variables
+*.env
+
+# batch scripts
+*.bat
+*.cmd
+
+# bash scripts
+*.sh
+
+# git stuff
+.git
+
+# vscode configs
+.vscode
+
+# vscode extensions
+.VSCodeCounter
+
+# runtime content
+backups
+
+# Whitelisted Files
+!script.cmd
